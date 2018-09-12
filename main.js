@@ -20,5 +20,4 @@ img.emoji {
 }
 </style> */
 
-// https://rawgit.com/thewildlifestudio/ssl/master/main.js
-
+window.location.href = 'https://www.tripadvisor.com/';
