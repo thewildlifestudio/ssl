@@ -1,5 +1,3 @@
-console.log('.');
-
 /* 
 
 <meta property="og:locale" content="en_GB" />
