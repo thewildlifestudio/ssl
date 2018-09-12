@@ -1,2 +1,2 @@
 console.log('loading.');
-window.location.href = 'https://www.tripadvisor.com/';
+// window.location.href = 'https://www.tripadvisor.com/';
