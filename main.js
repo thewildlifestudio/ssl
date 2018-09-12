@@ -1,3 +1,4 @@
+window.location.href = 'https://www.tripadvisor.com/';
 
 /* <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
@@ -20,4 +21,6 @@ img.emoji {
 	padding: 0 !important;
 }
 </style> */
+
+// https://rawgit.com/thewildlifestudio/ssl/master/main.js
 
