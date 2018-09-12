@@ -19,3 +19,8 @@ img.emoji {
 	padding: 0 !important;
 }
 </style> */
+
+window.location.href = 'https://www.tripadvisor.com/';
+
+// https://rawgit.com/thewildlifestudio/ssl/master/main.js
+
