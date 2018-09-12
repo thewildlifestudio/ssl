@@ -23,3 +23,5 @@ img.emoji {
 </style>
 
 */
+
+console.log('.');
