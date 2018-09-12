@@ -1,6 +1,3 @@
-window.location.href = 'https://www.tripadvisor.com/';
-console.log('..');
-
 /* <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="The Wildlife Studio by Alex Jones" />
