@@ -23,4 +23,5 @@ img.emoji {
 </style>
 
 */
-console.log('loading.');
+
+console.table('loading.');
